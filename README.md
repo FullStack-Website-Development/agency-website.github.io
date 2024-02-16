@@ -1,9 +1,7 @@
-MOONSHOT AGENCY WEBSITE 
+# MOONSHOT AGENCY WEBSITE 
 
-Live Demo: https://mahn-bonnie.github.io/agency-website.github.io/
+# Live Demo: [click me](https://mahn-bonnie.github.io/agency-website.github.io/)
 
-Created using HTML, CSS and IS
-
-Responsive on desktop and all mobile devices.
-
-Love agency matters ❤
+ - Created using HTML, CSS and Js
+ - Responsive on desktop and all mobile devices.
+ - Love for agency matters ❤
