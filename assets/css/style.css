@@ -310,7 +310,8 @@ body {
 }
 
 .navbar {
-  background-color: var(--white);
+  background-color: transparent;
+  filter: blur(2);
   position: fixed;
   top: 0;
   left: -280px;
